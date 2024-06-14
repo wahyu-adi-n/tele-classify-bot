@@ -1,1 +1,1 @@
-# tele-classify-bot
+# Image Classification with Telegram Bot
